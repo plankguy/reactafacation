@@ -9,6 +9,7 @@ import About from './src/components/About';
   /       : Wrapper -> Home
   /about  : Wrapper -> About
 */
+
 export default (
   /*<Router history={browserHistory}>*/
     <Route name="wrapper" component={Wrapper} path="/">
@@ -17,12 +18,3 @@ export default (
     </Route>
   /*</Router>*/
 );
-
-/*
-export default (
-  <Route name="wrapper" component={Wrapper} path="/">
-    <HomeRoute component={Home} />
-    <Route path="about" component={About} />
-  </Route>
-);
-*/

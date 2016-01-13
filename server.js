@@ -1,75 +1,22 @@
-import express                   from 'express';
-import React                     from "react";
-import { RoutingContext, match } from "react-router";
-import fs                        from 'fs';
-import path                      from 'path';
-import bodyParser                from 'body-parser';
-import { renderToString }        from 'react-dom/server'
-import createLocation            from 'history/lib/createLocation';
+var fs = require('fs');
+var path = require('path');
+var express = require('express');
+var bodyParser = require('body-parser');
+var React = require('react');
 
-import routes                    from 'routes';
-
-const app = express();
-const COMMENTS_FILE = path.join(__dirname, 'comments.json');
+var app = express();
+var COMMENTS_FILE = path.join(__dirname, 'comments.json');
 
 // Set server port
 app.set('port', (process.env.PORT || 3333));
+
 // Mount at path
-//app.use('/');
-// app.get('/*', function (req, res) {
-//   Router.run(routes, req.url, Handler => {
-//     let content = React.renderToString(<Wrapper />);
-//     res.render('index', { content: content });
-//   });
-// });
-app.use((req, res) => {
-
-  const location = createLocation(req.url);
-
-  match({ routes, location }, (err, redirectLocation, renderProps) => {
-    if ( err ) { 
-      console.error(err);
-      return res.status(500).end('Internal server error');
-    }
-    if ( !renderProps ) {
-      return res.status(404).end('Not found.');
-    }
-    
-    const InitialComponent = (
-      <RoutingContext {...renderProps} />
-    );
-    const componentHTML = renderToString(InitialComponent);
-    const HTML = `
-    <!DOCTYPE html>
-    <html>
-      <head>
-        <meta charset="utf-8">
-        <title>React Webpack template</title>
-      </head>
-      <body>
-        <div id="content">${componentHTML}</div>
-        <script type="application/javascript" src="scripts/bundle.js"></script>
-      </body>
-  </html>    
-`
-    res.end(HTML);
-  });
-});
-
-// Set static file dirs
-app.use(express.static(path.join(__dirname, 'build')));
-app.use(express.static(path.join(__dirname, 'static')));
+app.use('/', express.static(path.join(__dirname, 'build')));
 
 // parse application/json
 app.use(bodyParser.json());
 // parse application/x-www-form-urlencoded
 app.use(bodyParser.urlencoded({ extended: true }));
-
-// Bind and listen for connections
-app.listen(app.get('port'), function() {
-  console.info('Server started: http://localhost:' + app.get('port') + '/');
-});
-
 
 // Read comments json
 app.get('/api/comments', function(req, res) {
@@ -111,4 +58,7 @@ app.post('/api/comments', function(req, res) {
   });
 });
 
-export default app
+// Bind and listen for connections
+app.listen(app.get('port'), function() {
+  console.log('Server started: http://localhost:' + app.get('port') + '/');
+});
