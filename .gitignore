@@ -1,0 +1,3 @@
+*.map
+*.hot-update.*
+node_modules

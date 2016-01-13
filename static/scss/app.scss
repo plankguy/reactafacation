@@ -1,0 +1,39 @@
+@import './vendor/normalize';
+@import 'wrapper';
+
+body {
+    background-color: #EEE;
+}
+* {
+    &, &:before, &:after {
+        box-sizing: border-box;
+    }
+}
+
+.wrapper {
+    display: flex;
+    flex-flow: row wrap;
+}
+.header {
+    flex: 1 100%;
+    background-color: #CFF;
+    padding: 10px;
+}
+.sidebar {
+    order: 1;
+    background-color: #FCF;
+    padding: 10px;
+    width: 200px;
+}
+.page {
+    flex: 2 0px;
+    order: 2;
+    background-color: #FFC;
+    padding: 10px;
+}
+.footer {
+    flex: 1 100%;
+    order: 3;
+    background-color: #CCF;
+    padding: 10px;
+}

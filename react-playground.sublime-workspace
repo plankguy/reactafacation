@@ -1,0 +1,2543 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"Comm",
+				"CommentList"
+			],
+			[
+				"propT",
+				"PropTypes"
+			],
+			[
+				"prop",
+				"propTypes	Prop Validation"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"quer",
+				"query-screen-sm-max"
+			],
+			[
+				"qu",
+				"query-screen-container-min"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"you",
+				"Youtube"
+			],
+			[
+				"click",
+				"clickActions"
+			],
+			[
+				"app",
+				"appendTarget"
+			],
+			[
+				"pr",
+				"primary-nav"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"set",
+				"setState"
+			],
+			[
+				"ver",
+				"version"
+			],
+			[
+				"query",
+				"query-screen-sm-max"
+			],
+			[
+				"nor",
+				"nowrap"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"al",
+				"alt	Attr"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"append",
+				"appendTo"
+			],
+			[
+				"thankYou",
+				"thankYouContent"
+			],
+			[
+				"ratio",
+				"ratioY"
+			],
+			[
+				"es",
+				"escaped"
+			],
+			[
+				"close",
+				"closest"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"alert",
+				"alertCookie"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"va",
+				"var_dump"
+			],
+			[
+				"A",
+				"Alert"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"grid",
+				"grid-gutter-width"
+			],
+			[
+				"load",
+				"loadForms"
+			],
+			[
+				"get",
+				"getCachedScript"
+			],
+			[
+				"section--",
+				"section--arrow-next"
+			],
+			[
+				"brand",
+				"brand-secondary"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"m",
+				"margin-bottom"
+			],
+			[
+				"has",
+				"hasAlertinDOM"
+			],
+			[
+				"banner",
+				"bannerId"
+			],
+			[
+				"Promo",
+				"PromotionBanner"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"content",
+				"contentInfo"
+			],
+			[
+				"location",
+				"locationId"
+			],
+			[
+				"ale",
+				"alert"
+			],
+			[
+				"mkto",
+				"mktoField"
+			],
+			[
+				"scri",
+				"scriptLoaded"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"client",
+				"clientId"
+			],
+			[
+				"pre",
+				"prepend"
+			],
+			[
+				"and",
+				"andSelf"
+			],
+			[
+				"type",
+				"typeClass"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"dt",
+				"padding-top"
+			],
+			[
+				"font-fami",
+				"font-family-serif"
+			],
+			[
+				"font-f",
+				"font-family-serif"
+			],
+			[
+				"inln",
+				"inline-block"
+			],
+			[
+				"b",
+				"bottom"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"sprite",
+				"spritesmith"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"herschel",
+				"herschel-width"
+			],
+			[
+				"add",
+				"addClass	.addClass()"
+			],
+			[
+				"paren",
+				"parentsUntil	.parentsUntil()"
+			],
+			[
+				"border-ra",
+				"border-radius-base"
+			],
+			[
+				"mer",
+				"mergeObj"
+			],
+			[
+				"base",
+				"baseObj"
+			],
+			[
+				"border-top",
+				"border-top-color"
+			],
+			[
+				"border-s",
+				"border-style"
+			],
+			[
+				"phantom",
+				"phantomcss"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"ph",
+				"phantomcss"
+			],
+			[
+				"parent",
+				"parents	.parents()"
+			],
+			[
+				"insert",
+				"insertBefore	.insertBefore()"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"elem",
+				"elements"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"outer",
+				"outerHeight	.outerHeight()"
+			],
+			[
+				"out",
+				"outerHeight	.outerHeight()"
+			],
+			[
+				"parents",
+				"parentsUntil	.parentsUntil()"
+			],
+			[
+				"borde",
+				"border-style"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"siz",
+				"sizeSm"
+			],
+			[
+				"preload",
+				"preloadHTML"
+			],
+			[
+				"prel",
+				"preloadHTML"
+			],
+			[
+				"row",
+				"rowEls"
+			],
+			[
+				"current",
+				"currentRowStart"
+			],
+			[
+				"fade",
+				"fadeIn	.fadeIn()"
+			],
+			[
+				"sc",
+				"scrollTop	.scrollTop()"
+			],
+			[
+				"h",
+				"min-height"
+			],
+			[
+				"sele",
+				"selectedFilters"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"se",
+				"selectedFilter"
+			],
+			[
+				"log",
+				"logMsg"
+			],
+			[
+				"images",
+				"imagesLoaded"
+			],
+			[
+				"curr",
+				"currentTallest"
+			],
+			[
+				"cur",
+				"currentTallest"
+			],
+			[
+				"arg",
+				"arguments"
+			],
+			[
+				"resize",
+				"resizeHeight"
+			],
+			[
+				"filt",
+				"filterClass"
+			],
+			[
+				"loading",
+				"loadingEl"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"scr",
+				"script	HTML - Script"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"next",
+				"nextSlide"
+			],
+			[
+				"item",
+				"itemclass"
+			],
+			[
+				"cl",
+				"cl	console.log"
+			],
+			[
+				"input",
+				"input-height-xs"
+			],
+			[
+				"box-s",
+				"box-sizing"
+			],
+			[
+				"drop",
+				"dropdown-menu"
+			],
+			[
+				"first",
+				"first-child"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"INL",
+				"inline-block"
+			],
+			[
+				"tab",
+				"table"
+			],
+			[
+				"inline",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.jsx",
+			"settings":
+			{
+				"buffer_size": 216,
+				"line_ending": "Unix",
+				"name": "var React = require('react');"
+			}
+		},
+		{
+			"file": "src/components/CommentBox.jsx",
+			"settings":
+			{
+				"buffer_size": 3836,
+				"line_ending": "Unix",
+				"name": "var CommentBox = React.createClass({"
+			}
+		},
+		{
+			"file": "src/components/Wrapper.jsx",
+			"settings":
+			{
+				"buffer_size": 507,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "static/scss/app.scss",
+			"settings":
+			{
+				"buffer_size": 98,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "static/scss/vendor/_normalize.scss",
+			"settings":
+			{
+				"buffer_size": 7797,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/components/CommentList.jsx",
+			"settings":
+			{
+				"buffer_size": 865,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/components/Comment.jsx",
+			"settings":
+			{
+				"buffer_size": 511,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/components/CommentForm.jsx",
+			"settings":
+			{
+				"buffer_size": 2606,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/jeffw/Dev/personal/lab/react-webpack-node/webpack/webpack.config.js",
+			"settings":
+			{
+				"buffer_size": 3696,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/jeffw/Dev/personal/lab/react-webpack-node/app/components/App.jsx",
+			"settings":
+			{
+				"buffer_size": 1695,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/jeffw/Dev/personal/lab/react-webpack-node/app/components/About.jsx",
+			"settings":
+			{
+				"buffer_size": 438,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/jeffw/Dev/personal/lab/react-webpack-node/app/routes.jsx",
+			"settings":
+			{
+				"buffer_size": 834,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/jeffw/Dev/personal/lab/react-webpack-node/webpack/webpack-hot-dev-server.config.js",
+			"settings":
+			{
+				"buffer_size": 3830,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/jeffw/Dev/personal/lab/react-redux-json-blog/app/components/Header/Header.js",
+			"settings":
+			{
+				"buffer_size": 1431,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/jeffw/Dev/personal/lab/react-redux-json-blog/app/routes/App.js",
+			"settings":
+			{
+				"buffer_size": 1011,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 972,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".babelrc",
+			"settings":
+			{
+				"buffer_size": 47,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "webpack.config.js",
+			"settings":
+			{
+				"buffer_size": 1603,
+				"line_ending": "Unix",
+				"name": "module.exports = {"
+			}
+		},
+		{
+			"file": "server.js",
+			"settings":
+			{
+				"buffer_size": 1593,
+				"line_ending": "Unix",
+				"name": "/**"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "ins",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: jQuery ready function"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"pl",
+				"Package Control: Install Package"
+			],
+			[
+				"insa",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"lorem",
+				"LoremIpsum: (15) some"
+			]
+		],
+		"width": 503.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/jeffw/Dev/personal/lab/react-learning",
+		"/Users/jeffw/Dev/personal/lab/react-learning/build",
+		"/Users/jeffw/Dev/personal/lab/react-learning/src",
+		"/Users/jeffw/Dev/personal/lab/react-learning/src/components",
+		"/Users/jeffw/Dev/personal/lab/react-learning/static",
+		"/Users/jeffw/Dev/personal/lab/react-learning/static/scss",
+		"/Users/jeffw/Dev/personal/lab/react-learning/static/scss/vendor"
+	],
+	"file_history":
+	[
+		"/Users/jeffw/Dev/personal/lab/react-learning/static/scss/vendor/normalize.css",
+		"/Users/jeffw/Dev/personal/lab/react-learning/src/components/Sidebar.jsx",
+		"/Users/jeffw/Dev/personal/lab/react-learning/static/scss/_wrapper.scss",
+		"/Users/jeffw/Dev/personal/lab/react-learning/static/scss/app.scss",
+		"/Users/jeffw/Dev/personal/lab/react-learning/static/scss/_variables.scss",
+		"/Users/jeffw/Dev/personal/lab/react-learning/src/components/_wrapper.scss",
+		"/Users/jeffw/Dev/personal/lab/react-learning/src/components/Wrapper.jsx",
+		"/Users/jeffw/Dev/personal/lab/react-learning/src/components/_Wrapper.scss",
+		"/Users/jeffw/Dev/personal/lab/react-learning/src/components/Footer.jsx",
+		"/Users/jeffw/Dev/personal/lab/react-learning/src/components/Header.jsx",
+		"/Users/jeffw/Dev/personal/lab/react-learning/build/index.html",
+		"/Users/jeffw/Dev/personal/lab/react-learning/index.html",
+		"/Users/jeffw/Dev/personal/lab/react-learning/api/comments.json",
+		"/Users/jeffw/Dev/personal/lab/react-learning/.babelrc",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/ezpublish_legacy/design/admin/stylesheets/pagelayout.css",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/ezpublish_legacy/extension/inedit/design/standard/templates/hsservices/relobjedit.tpl",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/public/less/elements/_buttons.less",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views/Component/masonry.html.twig",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/public/css/hs-responsive.css",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/public/css/hs.css",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/public/less/components/_banners.less",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/public/less/section/ubervu.less",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/public/less/section/campaigns.less",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/public/less/section/resources.less",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/public/less/modules/_menus-secondary.less",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views/Component/stats_list.html.twig",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views/Component/checklist.html.twig",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views/Component/profile_list.html.twig",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views/Sections/Products/Campaigns/PageLocation/index.html.twig",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views/Component/modal.html.twig",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views/Component/blockquote.html.twig",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views/Full/landing_page_componentized.html.twig",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views/Sections/Amplify/PageTypes/amplify.html.twig",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/web/extension/inedit/design/standard/templates/hsservices/relobjedit.tpl",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views/Parts/header-minimal.html.twig",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views/Full/amplify-landing-page.html.twig",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/public/js/sections/resource.js",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/public/less/section/campaigns-products.less",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/public/less/components/_wrapper.less",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/public/less/section/amplify.less",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/public/js/libs/local/marketo.js",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/public/js/sections/plans.js",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/public/js/libs/local/YouTube-API.js",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views/Sections/Customers/PageTypes/page-expanded.html.twig",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views/Sections/Resources/CaseStudies/casestudy.html.twig",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views/Sections/Plans/PageLocation/pro-upgrade.html.twig",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views/Full/banner.html.twig",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/public/less/elements/_type.less",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/public/less/section/plans/plans.less",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/public/less/section/home/home.less",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views/Layouts/responsive-page.html.twig",
+		"/Users/jeffw/Library/Application Support/Sublime Text 3/Packages/User/Pretty JSON.sublime-settings",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/config/override.prod.yml",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/config/override.stage.yml",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views/Component/banner.html.twig",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views/Sections/CvH/PageTypes/cvh-event.html.twig",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views/Sections/SocialMediaEducation/PageLocation/index.html.twig",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views/Sections/Home/PageLocation/home.html.twig",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views/Parts/nav-mobile.html.twig",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views/Parts/menu.html.twig",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views/Sections/Products/UberVU/PageLocation/index.html.twig",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views/Component/cta_bar.html.twig",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views/Component/section.html.twig",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/public/less/functions/_mixins.less",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/public/less/base/_global.less",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views/Sections/Customers/Parts/footer-js.html.twig",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/public/js/sections/customers.js",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views/Parts/footer_js.html.twig",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/web/bundles/hootsuitebase/js/sections/ubervu.js",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/web/bundles/hootsuitebase/less/hs-responsive.less",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views/Parts/nav.html.twig",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views/Parts/nav-simple.html.twig",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/public/less/layout/_grid.less",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views/Parts/sidebar.html.twig",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views/Parts/nav-minimal.html.twig",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views/Sections/SocialMediaEducation/Parts/header-minimal-v2.html.twig",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views/Sections/Ads/PageLocation/ads.html.twig",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/public/js/bootstrap/carousel.js",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/web/design/admin/stylesheets/pagelayout.css",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/public/less/layout/_grid-blocks.less",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/web/bundles/hootsuitebase/less/components/_wrapper.less",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/ezpublish_legacy/extension/ezautosave/design/admin/stylesheets/preview.css",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/public/less/base/_scaffolding.less",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views/Parts/header.html.twig",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views/Sections/SocialMediaEducation/Parts/header-minimal.html.twig",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views/Sections/SocialMediaEducation/Parts/head-css.html.twig",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views/Parts/#header.html.twig",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views/Sections/events/event-complex.html.twig",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views/Sections/events/events-landing.html.twig",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views/Sections/events/event-live.html.twig",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views/Sections/Temporary/NewUI/Parts/header-minimal.html.twig",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views/Parts/#nav.html.twig",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/public/js/libs/local/jquery.swipebox.js",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views/Sections/CvH/Parts/header-minimal.html.twig",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/public/less/components/_swipebox.less",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views/Parts/header-simple.html.twig",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/web/extension/ezautosave/design/admin/templates/content/edit/autosave.tpl",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/web/bundles/hootsuitebase/less/layout/_grid-blocks.less",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/web/bundles/hootsuitebase/less/layout/_grid.less",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views/Sections/webinars/webinars-landing.html.twig",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views/Sections/Resources/PageTypes/index.html.twig",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views/Sections/pr-media/pr-landing.html.twig",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views/Sections/Styleguide/PageLocation/styleguide.html.twig",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/web/bundles/hootsuitebase/less/ie.less",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/web/bundles/hootsuitebase/less/section/ubervu.less",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views/Component/component.html.twig",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/public/js/libs/local/PromotionBanner.js",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/public/less/modules/_menus.less",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/public/js/libs/local/jquery.equalHeights.js",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Tests/JS/coverage/html/local/mobile-nav.js.html",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views/Sections/Products/UberVU/Parts/footer-js.html.twig",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/public/less/modules/_forms.less",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/public/less/utils/_utils.less",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/public/less/modules/_alert.less",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/public/less/layout/_layout.less",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views/Parts/footer.html.twig",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views/BlockItem/block_item.html.twig",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views/Sections/Plans/PageLocation/plans.html.twig",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views/Component/profile.html.twig",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/public/js/libs/local/CoreAPI.js",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/public/js/libs/local/GeoManager.js",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/web/bundles/hootsuitebase/js/libs/local/localization.js",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/public/js/sections/webinars.js",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/public/js/ui/components/jsx/CalculatorApp.jsx",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/public/less/modules/_headings.less",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/public/less/elements/_icons.less",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/translations/messages.pt_BR.xlf",
+		"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/translations/messages.fr_FR.xlf"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+			"<open folders,/Users/jeffw/Dev/personal/lab/react-redux-json-blog",
+			"<open folders,/Users/jeffw/Dev/personal/lab/react-redux-json-blog/app/components",
+			"<open folders>",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/,-*.css,-*.map,-/Users/jeffw/Dev/Sites/HootSuite Web/ezpublish_legacy",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/,-*.css,-*.map,-/Users/jeffw/Dev/Sites/HootSuite Web/ezpublish_legacy/var/cache/,-/Users/jeffw/Dev/Sites/HootSuite Web/web/cms/,-/Users/jeffw/Dev/Sites/HootSuite Web/node_modules/,-/Users/jeffw/Dev/Sites/HootSuite Web/ezpublish_legacy/var/hootsuite/cache/,-/Users/jeffw/Dev/Sites/HootSuite Web/ezpublish_legacy/extension/hootsuite/data_sources/*,-/Users/jeffw/Dev/Sites/HootSuite Web/ezpublish_legacy/var/hootsuite/cache/*,-/Users/jeffw/Dev/Sites/HootSuite Web/node_modules/*,-/Users/jeffw/Dev/Sites/HootSuite Web/web/cms/*,-/Users/jeffw/Dev/Sites/HootSuite Web/ezpublish_legacy/var/log/*,-/Users/jeffw/Dev/Sites/HootSuite Web/ezpublish_legacy/design/*,-/Users/jeffw/Dev/Sites/HootSuite Web/web/var/cache/*",
+			"/Users/jeffw/Dev/Sites/HootSuite Web",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/,-*.css,-*.map,",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/,-*.css,-*.map,-/Users/jeffw/Dev/Sites/HootSuite Web/ezpublish_legacy/var/cache/,-/Users/jeffw/Dev/Sites/HootSuite Web/web/cms/,-/Users/jeffw/Dev/Sites/HootSuite Web/node_modules/,-/Users/jeffw/Dev/Sites/HootSuite Web/ezpublish_legacy/var/hootsuite/cache/,-/Users/jeffw/Dev/Sites/HootSuite Web/ezpublish_legacy/extension/hootsuite/data_sources/*,-/Users/jeffw/Dev/Sites/HootSuite Web/ezpublish_legacy/var/hootsuite/cache/*,-/Users/jeffw/Dev/Sites/HootSuite Web/node_modules/*,-/Users/jeffw/Dev/Sites/HootSuite Web/web/cms/*,-/Users/jeffw/Dev/Sites/HootSuite Web/ezpublish_legacy/var/log/*,-/Users/jeffw/Dev/Sites/HootSuite Web/ezpublish_legacy/design/*,-/Users/jeffw/Dev/Sites/HootSuite Web/web/var/cache/*",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/ezpublish_legacy/extension/inedit",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/,-*.css,-*.map,-/Users/jeffw/Dev/Sites/HootSuite Web/ezpublish_legacy/var/cache/,-/Users/jeffw/Dev/Sites/HootSuite Web/web/cms/,-/Users/jeffw/Dev/Sites/HootSuite Web/node_modules/,-/Users/jeffw/Dev/Sites/HootSuite Web/ezpublish_legacy/var/hootsuite/cache/,-/Users/jeffw/Dev/Sites/HootSuite Web/ezpublish_legacy/extension/hootsuite/data_sources/*,-/Users/jeffw/Dev/Sites/HootSuite Web/ezpublish_legacy/var/hootsuite/cache/*,-/Users/jeffw/Dev/Sites/HootSuite Web/node_modules/*,-/Users/jeffw/Dev/Sites/HootSuite Web/web/cms/*,-/Users/jeffw/Dev/Sites/HootSuite Web/ezpublish_legacy/var/log/*,-/Users/jeffw/Dev/Sites/HootSuite Web/ezpublish_legacy/design/*,-/Users/jeffw/Dev/Sites/HootSuite Web/web/var/cache/*",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/,-*.css,-*.map,-/Users/jeffw/Dev/Sites/HootSuite Web/ezpublish_legacy/var/cache/,-/Users/jeffw/Dev/Sites/HootSuite Web/web/cms/,-/Users/jeffw/Dev/Sites/HootSuite Web/node_modules/,-/Users/jeffw/Dev/Sites/HootSuite Web/ezpublish_legacy/var/hootsuite/cache/,-/Users/jeffw/Dev/Sites/HootSuite Web/ezpublish_legacy/extension/hootsuite/data_sources/*,-/Users/jeffw/Dev/Sites/HootSuite Web/ezpublish_legacy/var/hootsuite/cache/*,-/Users/jeffw/Dev/Sites/HootSuite Web/node_modules/*,-/Users/jeffw/Dev/Sites/HootSuite Web/web/cms/*,-/Users/jeffw/Dev/Sites/HootSuite Web/ezpublish_legacy/var/log/*,-/Users/jeffw/Dev/Sites/HootSuite Web/ezpublish_legacy/design/*,-/Users/jeffw/Dev/Sites/HootSuite Web/web/var/cache/*",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/,-*.css,-*.map,-/Users/jeffw/Dev/Sites/HootSuite Web/ezpublish_legacy/var/cache/,-/Users/jeffw/Dev/Sites/HootSuite Web/web/cms/,-/Users/jeffw/Dev/Sites/HootSuite Web/node_modules/,-/Users/jeffw/Dev/Sites/HootSuite Web/ezpublish_legacy/var/hootsuite/cache/,-/Users/jeffw/Dev/Sites/HootSuite Web/ezpublish_legacy/extension/hootsuite/data_sources/*,-/Users/jeffw/Dev/Sites/HootSuite Web/ezpublish_legacy/var/hootsuite/cache/*,-/Users/jeffw/Dev/Sites/HootSuite Web/node_modules/*,-/Users/jeffw/Dev/Sites/HootSuite Web/web/cms/*,-/Users/jeffw/Dev/Sites/HootSuite Web/ezpublish_legacy/var/log/*,-/Users/jeffw/Dev/Sites/HootSuite Web/ezpublish_legacy/design/*,-/Users/jeffw/Dev/Sites/HootSuite Web/web/var/cache/*",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/public",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/,-*.css,-*.map,-/Users/jeffw/Dev/Sites/HootSuite Web/ezpublish_legacy/var/cache/,-/Users/jeffw/Dev/Sites/HootSuite Web/web/cms/,-/Users/jeffw/Dev/Sites/HootSuite Web/node_modules/,-/Users/jeffw/Dev/Sites/HootSuite Web/ezpublish_legacy/var/hootsuite/cache/,-/Users/jeffw/Dev/Sites/HootSuite Web/ezpublish_legacy/extension/hootsuite/data_sources/*,-/Users/jeffw/Dev/Sites/HootSuite Web/ezpublish_legacy/var/hootsuite/cache/*,-/Users/jeffw/Dev/Sites/HootSuite Web/node_modules/*,-/Users/jeffw/Dev/Sites/HootSuite Web/web/cms/*,-/Users/jeffw/Dev/Sites/HootSuite Web/ezpublish_legacy/var/log/*,-/Users/jeffw/Dev/Sites/HootSuite Web/ezpublish_legacy/design/*,-/Users/jeffw/Dev/Sites/HootSuite Web/web/var/cache/*",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/public/js",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/,-*.css,-*.map,-/Users/jeffw/Dev/Sites/HootSuite Web/ezpublish_legacy/var/cache/,-/Users/jeffw/Dev/Sites/HootSuite Web/web/cms/,-/Users/jeffw/Dev/Sites/HootSuite Web/node_modules/,-/Users/jeffw/Dev/Sites/HootSuite Web/ezpublish_legacy/var/hootsuite/cache/,-/Users/jeffw/Dev/Sites/HootSuite Web/ezpublish_legacy/extension/hootsuite/data_sources/*,-/Users/jeffw/Dev/Sites/HootSuite Web/ezpublish_legacy/var/hootsuite/cache/*,-/Users/jeffw/Dev/Sites/HootSuite Web/node_modules/*,-/Users/jeffw/Dev/Sites/HootSuite Web/web/cms/*,-/Users/jeffw/Dev/Sites/HootSuite Web/ezpublish_legacy/var/log/*,-/Users/jeffw/Dev/Sites/HootSuite Web/ezpublish_legacy/design/*,-/Users/jeffw/Dev/Sites/HootSuite Web/web/var/cache/*",
+			"/Users/jeffw/Dev/Sites/HootSuite Web",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/,-*.css,-*.map,-/Users/jeffw/Dev/Sites/HootSuite Web/ezpublish_legacy/var/cache/,-/Users/jeffw/Dev/Sites/HootSuite Web/web/cms/,-/Users/jeffw/Dev/Sites/HootSuite Web/node_modules/,-/Users/jeffw/Dev/Sites/HootSuite Web/ezpublish_legacy/var/hootsuite/cache/,-/Users/jeffw/Dev/Sites/HootSuite Web/ezpublish_legacy/extension/hootsuite/data_sources/*,-/Users/jeffw/Dev/Sites/HootSuite Web/ezpublish_legacy/var/hootsuite/cache/*,-/Users/jeffw/Dev/Sites/HootSuite Web/node_modules/*,-/Users/jeffw/Dev/Sites/HootSuite Web/web/cms/*,-/Users/jeffw/Dev/Sites/HootSuite Web/ezpublish_legacy/var/log/*,-/Users/jeffw/Dev/Sites/HootSuite Web/ezpublish_legacy/design/*,-/Users/jeffw/Dev/Sites/HootSuite Web/web/var/cache/*",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/,-*.css,-*.map,-/Users/jeffw/Dev/Sites/HootSuite Web/ezpublish_legacy/var/cache/,-/Users/jeffw/Dev/Sites/HootSuite Web/web/cms/,-/Users/jeffw/Dev/Sites/HootSuite Web/node_modules/,-/Users/jeffw/Dev/Sites/HootSuite Web/ezpublish_legacy/var/hootsuite/cache/,-/Users/jeffw/Dev/Sites/HootSuite Web/ezpublish_legacy/extension/hootsuite/data_sources/*,-/Users/jeffw/Dev/Sites/HootSuite Web/ezpublish_legacy/var/hootsuite/cache/*,-/Users/jeffw/Dev/Sites/HootSuite Web/node_modules/*,-/Users/jeffw/Dev/Sites/HootSuite Web/web/cms/*,-/Users/jeffw/Dev/Sites/HootSuite Web/ezpublish_legacy/var/log/*,-/Users/jeffw/Dev/Sites/HootSuite Web/ezpublish_legacy/design/*",
+			"/Users/jeffw/Dev/Sites/HootSuite Web",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources,-*.map,-*.css,/Users/jeffw/Dev/Sites/HootSuite Web/ezpublish_legacy/settings/override,/Users/jeffw/Dev/Sites/Hootsuite AB Tests/projects/cms",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources,-/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/public/sources,-*.css,-*.css.map",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views,/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/public/less,/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/public/less,-*.css,-*.css.map",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources,-*.css,-*.css.map",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/node_modules/grunt-fontsmith",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources,-*.css,-*.css.map",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/node_modules/grunt-iconizr",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/node_modules",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources,-*.css,-*.css.map,/Users/jeffw/Dev/Sites/HootSuite Web/node_modules",
+			"/Users/jeffw/Dev/Sites/HootSuite Web",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources,-*.css,-*.css.map",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources,-*.css,-*.css.map,-/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/public/#exports/*",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources,-*.css,-*.css.map,-/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/Public/#exports",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources,-*.css,-*.css.map",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources,-*.less,-*.css,-*.css.map",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources,-*.css,-*.css.map",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources,-*.css,-*.html,-*.css.map",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources,-*.css,-*.html",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources,,-*.css",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/public/less",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/public/less",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/public/less/components",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views,/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/public/less",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/public",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/public/less",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite",
+			"/Users/jeffw/Dev/Sites/HootSuite Web",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/vendor/symfony/assetic-bundle/Symfony/Bundle/AsseticBundle",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/public/less",
+			"/Users/jeffw/Dev/Sites/HootSuite Web",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/public/less",
+			"/Users/jeffw/Dev/Sites/HootSuite Web",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/public/less",
+			"/Users/jeffw/Dev/Sites/HootSuite Web",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources",
+			"/Users/jeffw/Dev/Sites/HootSuite Web",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/public/less,/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/public/less",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views,/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/public/less",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views",
+			"/Users/jeffw/Dev/Sites/HootSuite Web",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views",
+			"/Users/jeffw/Dev/Libs/HootSuite Front-end Framework/less",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/public/less",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/public/",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/public/less",
+			"/Users/jeffw/Dev/Sites/HootSuite Web",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views",
+			"",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/public/less",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/public/less/bootstrap",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/public/less/bootstrap",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/public/less/bootstrap",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/views",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/public/less",
+			"/Users/jeffw/Dev/Sites/HootSuite Web,/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources/public/less",
+			"/Users/jeffw/Dev/Sites/HootSuite Web",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src",
+			"/Users/jeffw/Dev/Sites/HootSuite Web,",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Mugo",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/vendor",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/ezpublish,/Users/jeffw/Dev/Sites/HootSuite Web/ezpublish_legacy",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite",
+			"/Users/jeffw/Dev/Sites/HootSuite Web",
+			"/Users/jeffw/Dev/Sites/HootSuite Web/src/Hootsuite/BaseBundle/Resources"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"post",
+			"normal",
+			"  ",
+			"componentDidMount",
+			"jquery",
+			"getInitialState",
+			"Header",
+			"marked",
+			"example",
+			"url",
+			"comments.",
+			"marked",
+			"this.props.url",
+			"publish",
+			"delete-container",
+			"delete",
+			"uk-form",
+			"form uk-form uk-form-stacked uk-panel uk-panel-box",
+			"bold",
+			"Child Blocks:",
+			"uk-accordion-title",
+			"style=\"",
+			"child",
+			"uk-modal-dialog-large",
+			"Update",
+			"update",
+			"uk-width-2-3 uk-push-1-6",
+			"Blocks:",
+			"<td colspan='4'>",
+			"<td colspan='5'>",
+			"uk-width-2-3 uk-push-1-6",
+			"Create A",
+			"create a",
+			"uk-accordion-title",
+			"Content ID",
+			"remove-block-checkbox",
+			"'remove-block-checkbox'",
+			"No Em",
+			"colsp",
+			"require",
+			"fieldset",
+			"field",
+			"Blocks",
+			"colspan",
+			"ezselectionContainer_background",
+			"<select",
+			"ezselection",
+			"content-id",
+			".on('click', '.edit-block",
+			"<i ",
+			"uk-width-4-4",
+			"dl",
+			"--light",
+			"--dark",
+			"--out",
+			"masonry",
+			"backg",
+			"statistic",
+			".layout",
+			"<dl",
+			"<label",
+			"image_copy",
+			"profile_list",
+			"margin-",
+			"margin-bottom",
+			"x-right",
+			"--right",
+			"image_copy",
+			"\n                        is_info_collector: \"false\"",
+			"--left",
+			"viewbase",
+			"profile_card",
+			"Create",
+			"modal-header",
+			"ez_content:viewContent",
+			"profile_card",
+			"masonry",
+			"product_card",
+			"mason",
+			"_card",
+			"selection_types",
+			"ez_render_field",
+			"path",
+			"Company L",
+			"Step",
+			"Stats",
+			".bleeds(",
+			"--bleed",
+			"hero",
+			"max_width",
+			"ampli",
+			"download",
+			",\n",
+			"uk-button-success",
+			"relation-list-attribute-id",
+			"\"overlay",
+			"hero--light",
+			"getSlider",
+			"mason",
+			"5860",
+			"index.html",
+			"logoImageSrc",
+			"index.ht",
+			"hero",
+			"vcell",
+			"btn",
+			"hero-logo",
+			"in vtable hero__container",
+			"page-title",
+			"has-page-title",
+			"contrast_overlay",
+			"cta_bar",
+			"__body",
+			".in",
+			"&lt;",
+			"&gt;",
+			"&lt;",
+			"&gt;",
+			"&lt;",
+			"__conta",
+			"container",
+			"in vtable",
+			"breadcrumb_title",
+			"vcell",
+			".in",
+			"breadcrumb_title",
+			"fieldsDataSet",
+			"fieldsDataGet"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"    ",
+			"Child Components:",
+			"uk-modal-dialog-fluid",
+			"Object ID",
+			"stat",
+			"",
+			"ez_field_value",
+			"<",
+			">",
+			"<",
+			">",
+			"<",
+			"@hero-h-pad",
+			"@hero-v-pad",
+			"has_youtube",
+			"_heroEmbedTrigger",
+			"_heroEmbedTigger",
+			"_heroEmbedVideo",
+			"$videoContainer",
+			"title",
+			"@button-y-pad",
+			"@button-border-width",
+			"minimal-nav__items__item",
+			"profile_card",
+			"bindNextBtn",
+			"bindPrevBtn",
+			"off",
+			"on",
+			"__list",
+			"__items",
+			"has-mobile-menu--open",
+			"has-menu-open",
+			"is-open",
+			"@navY",
+			"refreshSidebar();",
+			"250",
+			"500",
+			"Here is how we calculate these numbers",
+			"plan-item plan-item--unavailable col col--capped",
+			"plan-item--label col col--light",
+			"https://",
+			"",
+			"level1",
+			"http://dev.staging",
+			"col col--capped",
+			"col--last-row--first",
+			"<td class=\"plan-item plan-item--capped col\" headers=\"plan-enterprise",
+			"<td class=\"plan-item plan-item--capped col\" headers=\"plan-free\">",
+			"class=\"col col--light plan-item\" headers=\"plan-pro\"",
+			"",
+			"plan-item-row plan-item-row--fade",
+			"tooltip-info has-popover u-pull-right",
+			"col col--last headers__col",
+			"col col--first headers__col",
+			"plan-item plan-item--label col",
+			"plan-item col col--addons col--light u-hidden--sm-down",
+			"<div class=\"plan-item--responsive__info u-hidden--sm-up\">\n                                <i class=\"i x-checkmark",
+			"plan-item plan-item--responsive col col--wide",
+			"col",
+			"col--responsive",
+			" col--wide col-responsive",
+			"col-responsive",
+			"u-hidden--sm-up",
+			"u-hidden--sm",
+			"u-hidden--xs-up",
+			"u-hidden--xs-down",
+			"plan-item-row plan-item-row--fade ",
+			"plan-item-row plan-item-row--fade",
+			" col--addons col--light",
+			"plan-item-row plan-item-row--light ",
+			"plan-item-row plan-item-row--light",
+			"plan-item plan-item--label",
+			"plan-item--label",
+			"plan-item plan-item--label",
+			"col col--wide",
+			"col col--addons",
+			"deprecate",
+			"btn--success",
+			"",
+			"--level3",
+			"--level2",
+			"",
+			"deprecate",
+			"initTracking",
+			"dssjson-enhanced",
+			"$formEl",
+			"alertsLocationId",
+			"$alertsLocationId",
+			"$locationId",
+			"$alertsLocationId",
+			"$alertFolderLocationId",
+			"$alertFolderNodeId",
+			"// Functions\n@import \"../functions/init-responsive.less\";",
+			"Alert",
+			"header.header",
+			"Alert",
+			"this.$alert",
+			"this.alert",
+			"alertId",
+			"removeAlert",
+			".actions",
+			"'margin-top'",
+			"120",
+			"/pages/landing/instagram/learn-more",
+			"&lt;/div&gt;",
+			"@sectionPad",
+			"section--bleed",
+			"section section--fill section--bleed",
+			"section--bleed",
+			"deprecate",
+			"border: 1px solid green;",
+			"@header-height-mobile",
+			"@secondary-nav-height",
+			"$alertCreationDate",
+			"@alert-height",
+			"@alert-font-size",
+			"@alert-line-height",
+			"@alert-padding",
+			"<!-- <xsl:value-of select=\"php:function( 'html_entity_decode', string( @custom:caption ) )\" disable-output-escaping=\"yes\" /> -->\n                    <xsl:value-of select=\"@custom:caption\" disable-output-escaping=\"yes\" />",
+			"dss_groupname",
+			"blockquote--pretty__footer",
+			"hoottip",
+			"social-fill",
+			"x-social-box-fill",
+			"HScms.",
+			"HScms",
+			"{% trans %}",
+			".sprite-fluid"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 216,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								216,
+								216
+							]
+						],
+						"settings":
+						{
+							"auto_name": "var React = require('react');",
+							"syntax": "Packages/JSX/JSX.tmLanguage",
+							"tab_size": 2
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/components/CommentBox.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3836,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								223,
+								223
+							]
+						],
+						"settings":
+						{
+							"auto_name": "var CommentBox = React.createClass({",
+							"syntax": "Packages/JSX/JSX.tmLanguage",
+							"tab_size": 4
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/components/Wrapper.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 507,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								428,
+								428
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JSX/JSX.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "static/scss/app.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 98,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								98,
+								98
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "static/scss/vendor/_normalize.scss",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 7797,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/components/CommentList.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 865,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								42,
+								42
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/JSX/JSX.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 31.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/components/Comment.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 511,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								458,
+								458
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JSX/JSX.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/components/CommentForm.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2606,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1161,
+								1161
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JSX/JSX.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 597.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 8,
+					"file": "/Users/jeffw/Dev/personal/lab/react-webpack-node/webpack/webpack.config.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3696,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								281,
+								284
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 810.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/Users/jeffw/Dev/personal/lab/react-webpack-node/app/components/App.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1695,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								226,
+								207
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JSX/JSX.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/Users/jeffw/Dev/personal/lab/react-webpack-node/app/components/About.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 438,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JSX/JSX.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/Users/jeffw/Dev/personal/lab/react-webpack-node/app/routes.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 834,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								132,
+								132
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JSX/JSX.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/Users/jeffw/Dev/personal/lab/react-webpack-node/webpack/webpack-hot-dev-server.config.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3830,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3338,
+								3338
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1219.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/Users/jeffw/Dev/personal/lab/react-redux-json-blog/app/components/Header/Header.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1431,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								403,
+								270
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "/Users/jeffw/Dev/personal/lab/react-redux-json-blog/app/routes/App.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1011,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								444,
+								433
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 15,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 972,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								557,
+								527
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 38.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": ".babelrc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 47,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								45,
+								45
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "webpack.config.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1603,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								720,
+								720
+							]
+						],
+						"settings":
+						{
+							"auto_name": "module.exports = {",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 239.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 18,
+					"file": "server.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1593,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								435,
+								435
+							]
+						],
+						"settings":
+						{
+							"auto_name": "/**",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 75.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				2
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				0,
+				2,
+				1,
+				3
+			],
+			[
+				1,
+				1,
+				2,
+				3
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.482686058686,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.700054910496,
+			0.533625528839,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 493.0
+	},
+	"pinned_build_system": "",
+	"project": "react-playground.sublime-project",
+	"replace":
+	{
+		"height": 114.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"_banner",
+				"less/components/_banners.less"
+			],
+			[
+				"butt",
+				"less/elements/_buttons.less"
+			],
+			[
+				"maso",
+				"less/layout/_masonry.less"
+			],
+			[
+				"mas",
+				"views/Component/masonry.html.twig"
+			],
+			[
+				"stat",
+				"views/Component/stats_list_container.html.twig"
+			],
+			[
+				"stats",
+				"less/modules/_stats-list.less"
+			],
+			[
+				"cta",
+				"views/Component/cta_bar.html.twig"
+			],
+			[
+				"hs",
+				"css/hs-responsive.css"
+			],
+			[
+				"hs.css",
+				"css/hs.css"
+			],
+			[
+				"block",
+				"views/Component/blockquote.html.twig"
+			],
+			[
+				"profile",
+				"views/Component/profile_list.html.twig"
+			],
+			[
+				"sect",
+				"views/Component/section.html.twig"
+			],
+			[
+				"profi",
+				"views/Component/profile.html.twig"
+			],
+			[
+				"mason",
+				"views/Component/masonry.html.twig"
+			],
+			[
+				"check",
+				"views/Component/checklist.html.twig"
+			],
+			[
+				"sta",
+				"views/Component/stats_list.html.twig"
+			],
+			[
+				"section",
+				"views/Component/section.html.twig"
+			],
+			[
+				"moda",
+				"views/Component/modal.html.twig"
+			],
+			[
+				"header-minimal.html.twig",
+				"views/Parts/header-minimal.html.twig"
+			],
+			[
+				"amplify-landing-page.html.twig",
+				"views/Full/amplify-landing-page.html.twig"
+			],
+			[
+				"ampli",
+				"views/Sections/Amplify/PageTypes/amplify.html.twig"
+			],
+			[
+				"mark",
+				"js/libs/local/marketo.js"
+			],
+			[
+				"res",
+				"js/sections/resource.js"
+			],
+			[
+				"hs.cs",
+				"css/hs.css"
+			],
+			[
+				"menu",
+				"less/modules/_menus-secondary.less"
+			],
+			[
+				"uber",
+				"less/section/ubervu.less"
+			],
+			[
+				"ampl",
+				"less/section/amplify.less"
+			],
+			[
+				"responsive-page.html.twig",
+				"views/Layouts/responsive-page.html.twig"
+			],
+			[
+				"camp",
+				"less/section/campaigns-products.less"
+			],
+			[
+				"home",
+				"less/section/home/home.less"
+			],
+			[
+				"pla",
+				"less/section/plans/plans.less"
+			],
+			[
+				"base",
+				"views/base.html.twig"
+			],
+			[
+				"plans",
+				"js/sections/plans.js"
+			],
+			[
+				"banner",
+				"views/Component/banner.html.twig"
+			],
+			[
+				"nav",
+				"views/Parts/nav-mobile.html.twig"
+			],
+			[
+				"cta_",
+				"views/Component/cta_bar.html.twig"
+			],
+			[
+				"type",
+				"less/elements/_type.less"
+			],
+			[
+				"amplify",
+				"less/section/amplify.less"
+			],
+			[
+				"exted",
+				"views/Sections/Customers/PageTypes/page-expanded.html.twig"
+			],
+			[
+				"footer-js.html.twig",
+				"views/Sections/Customers/Parts/footer-js.html.twig"
+			],
+			[
+				"you",
+				"js/libs/local/YouTube-API.js"
+			],
+			[
+				"footer_js.html.twig",
+				"views/Parts/footer_js.html.twig"
+			],
+			[
+				"youtube",
+				"js/libs/local/YouTube-API.js"
+			],
+			[
+				"customer",
+				"js/sections/customers.js"
+			],
+			[
+				"resour",
+				"less/section/resources.less"
+			],
+			[
+				"sections",
+				"less/layout/_sections.less"
+			],
+			[
+				"social-m",
+				"views/Sections/SocialMediaEducation/Parts/header-minimal-v2.html.twig"
+			],
+			[
+				"ads",
+				"views/Sections/Ads/PageLocation/ads.html.twig"
+			],
+			[
+				"sca",
+				"less/base/_scaffolding.less"
+			],
+			[
+				"global",
+				"less/base/_global.less"
+			],
+			[
+				"header",
+				"views/Parts/#header.html.twig"
+			],
+			[
+				"main.j",
+				"js/main.js"
+			],
+			[
+				"nav-minimal.html.twig",
+				"views/Parts/nav-minimal.html.twig"
+			],
+			[
+				"wra",
+				"less/components/_wrapper.less"
+			],
+			[
+				"bann",
+				"less/components/_banners.less"
+			],
+			[
+				"swip",
+				"less/components/_swipebox.less"
+			],
+			[
+				"grid",
+				"less/layout/_grid.less"
+			],
+			[
+				"head",
+				"views/Parts/header.html.twig"
+			],
+			[
+				"promo",
+				"js/libs/local/PromotionBanner.js"
+			],
+			[
+				"index.html",
+				"views/Sections/Products/UberVU/PageLocation/index.html.twig"
+			],
+			[
+				"header-",
+				"views/Parts/header-simple.html.twig"
+			],
+			[
+				"nav-",
+				"views/Parts/nav-simple.html.twig"
+			],
+			[
+				"als",
+				"less/modules/_alert.less"
+			],
+			[
+				"equa",
+				"js/libs/local/jquery.equalHeights.js"
+			],
+			[
+				"layout",
+				"less/layout/_layout.less"
+			],
+			[
+				"webin",
+				"js/sections/webinars.js"
+			],
+			[
+				"s",
+				"less/base/_scaffolding.less"
+			],
+			[
+				"alert",
+				"less/modules/_alert.less"
+			],
+			[
+				"wrapper",
+				"less/components/_wrapper.less"
+			],
+			[
+				"responsive-page-general.html.twig",
+				"views/Layouts/responsive-page-general.html.twig"
+			],
+			[
+				"block_item.html.twig",
+				"views/BlockItem/block_item.html.twig"
+			],
+			[
+				"geo",
+				"js/libs/local/GeoManager.js"
+			],
+			[
+				"norma",
+				"less/base/_normalize.less"
+			],
+			[
+				"ico",
+				"less/elements/_icons.less"
+			],
+			[
+				"mix",
+				"less/functions/_mixins.less"
+			],
+			[
+				"calc",
+				"js/ui/components/jsx/CalculatorApp.jsx"
+			],
+			[
+				"ampll",
+				"views/Sections/Amplify/PageTypes/amplify.html.twig"
+			],
+			[
+				"translations_js.html.twig",
+				"views/Parts/translations_js.html.twig"
+			],
+			[
+				"ut",
+				"less/utils/_utils.less"
+			],
+			[
+				"links",
+				"less/elements/_links.less"
+			],
+			[
+				"cal",
+				"js/ui/components/CalculatorApp.js"
+			],
+			[
+				"calcular",
+				"js/ui/components/jsx/CalculatorApp.jsx"
+			],
+			[
+				"forms",
+				"less/modules/_forms.less"
+			],
+			[
+				"amplif",
+				"less/section/amplify.less"
+			],
+			[
+				"plans.html",
+				"views/Sections/Plans/PageLocation/plans.html.twig"
+			],
+			[
+				"marketo",
+				"js/libs/local/marketo.js"
+			],
+			[
+				"market",
+				"config/deploy.contenttype/marketo_form.yml"
+			],
+			[
+				"landing",
+				"views/Full/landing_page_componentized.html.twig"
+			],
+			[
+				"plans.ht",
+				"views/Sections/Plans/PageLocation/plans.html.twig"
+			],
+			[
+				"icon",
+				"less/elements/_icons.less"
+			],
+			[
+				"table",
+				"less/modules/_tables.less"
+			],
+			[
+				"compo",
+				"views/Component/component.html.twig"
+			],
+			[
+				"base.html.twig",
+				"views/base.html.twig"
+			],
+			[
+				"landing_page_componentized.html.twig",
+				"views/Full/landing_page_componentized.html.twig"
+			],
+			[
+				"copy_image.html.twig",
+				"views/Component/copy_image.html.twig"
+			],
+			[
+				"pro-u",
+				"views/Sections/LandingPages/PageLocation/pro-upgrade.html.twig"
+			],
+			[
+				"plans-p",
+				"views/Location/plans-pro.html.twig"
+			],
+			[
+				"plans-fre",
+				"views/Location/plans-free.html.twig"
+			],
+			[
+				"plans-",
+				"views/Location/plans-pro.html.twig"
+			],
+			[
+				"headi",
+				"less/modules/_headings.less"
+			],
+			[
+				"client",
+				"views/Embed/client.html.twig"
+			],
+			[
+				"home/",
+				"views/Sections/Home/PageLocation/home.html.twig"
+			],
+			[
+				"style",
+				"~/Dev/Sites/HootSuite Web/styleguide.json"
+			],
+			[
+				"social",
+				"less/modules/_social-support.less"
+			],
+			[
+				"cust",
+				"less/section/customers.less"
+			],
+			[
+				"pro-bu",
+				"views/Sections/Bundles/PageLocation/pro-bundles.html.twig"
+			],
+			[
+				"link",
+				"less/elements/_links.less"
+			],
+			[
+				"pro-upgrade.js",
+				"js/sections/pro-upgrade.js"
+			],
+			[
+				"pric",
+				"js/libs/local/Pricing.js"
+			],
+			[
+				"pop",
+				"less/components/_popovers.less"
+			],
+			[
+				"hs-re",
+				"css/hs-responsive.css"
+			],
+			[
+				"util",
+				"less/utils/_utils-responsive.less"
+			],
+			[
+				"plans-pro",
+				"views/Sections/Plans/PageLocation/plans-pro.html.twig"
+			],
+			[
+				"plans-pr",
+				"views/Location/plans-pro.html.twig"
+			],
+			[
+				"mixin",
+				"less/functions/_mixins.less"
+			],
+			[
+				"plans.",
+				"less/section/plans/plans.less"
+			],
+			[
+				"ie",
+				"less/ie.less"
+			],
+			[
+				"but",
+				"less/elements/_buttons.less"
+			],
+			[
+				"plans.h",
+				"views/Location/plans.html.twig"
+			],
+			[
+				"vari",
+				"less/functions/_variables.less"
+			],
+			[
+				"ub",
+				"js/sections/ubervu.js"
+			],
+			[
+				"soci",
+				"less/modules/_social-support.less"
+			],
+			[
+				"_uti",
+				"less/utils/_utils-responsive.less"
+			],
+			[
+				"mi",
+				"less/functions/_mixins-bootstrap.less"
+			],
+			[
+				"butto",
+				"less/elements/_buttons.less"
+			],
+			[
+				"wrapp",
+				"less/components/_wrapper.less"
+			],
+			[
+				"modal.html.twig",
+				"views/Embed/modal.html.twig"
+			],
+			[
+				"form.html",
+				"views/Embed/form.html.twig"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 170.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
